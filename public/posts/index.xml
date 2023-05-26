@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Touko&#39;s blog</title>
+    <link>https://tova.fi/posts/</link>
+    <description>Recent content in Posts on Touko&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tova.fi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal VPN setup</title>
+      <link>https://tova.fi/posts/personal-vpn-setup/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tova.fi/posts/personal-vpn-setup/</guid>
+      <description>If you are interested in computers, technology, programming or hacking, there has been probably at least one time when you&amp;rsquo;ve wondered what would be the most secure and affordable VPN that you can get. Most times you end up using a third-party service such as (but not limited to) Mullvad or ProtonVPN, which are great solutions. Most times you get multiple VPN servers in multiple countries.
+I&amp;rsquo;ve used NordVPN, ProtonVPN and some others, but unfortunately the servers are most often blocked in public Wi-Fis (for questionable purposes), which is ridiculous.</description>
+    </item>
+    
+  </channel>
+</rss>
